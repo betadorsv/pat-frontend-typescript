@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    height: 56px;
+    padding: 8px 1816px 8px 16px;
+    border: solid 1px #e2e2e2;
+    background-color: #fff;
+    display: flex;
+}
+.header img{
+    width: 40px;
+  height: 40px;
+  margin: 0 8px 0 0;
+  object-fit: contain;
+}
+.header h1{
+    width: 40px;
+    height: 27px;
+    margin: 7px 0 6px 8px;
+    font-family: NotoSansCJKkr;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 1.5;
+    text-align: left;
+    color: #000;
+}
